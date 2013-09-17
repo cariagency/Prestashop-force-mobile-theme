@@ -10,7 +10,7 @@ class ForceMobileTheme extends Module
 		$this->name = 'forcemobiletheme';
 		$this->tab = 'mobile';
 		$this->version = '1.0';
-		$this->author = 'lefakir';
+		$this->author = 'Cahri';
 		$this->need_instance = 0;
 		$this->ps_versions_compliancy = array('min' => '1.5', 'max' => '1.6'); 
 

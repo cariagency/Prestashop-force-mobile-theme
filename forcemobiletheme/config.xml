@@ -4,7 +4,7 @@
             <displayName><![CDATA[Force mobile theme display]]></displayName>
             <version><![CDATA[1.0]]></version>
             <description><![CDATA[Force mobile theme display whenever it is visited by desktop browser]]></description>
-            <author><![CDATA[lefakir]]></author>
+            <author><![CDATA[CAHRI]]></author>
             <tab><![CDATA[mobile]]></tab>
 	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
             <is_configurable>0</is_configurable>
